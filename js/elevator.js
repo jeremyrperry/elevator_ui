@@ -20,7 +20,7 @@ elevator = {
     maxDown: false,
     selectedFloors: [],
     topFloor: null,
-    totalFloors: 20,//Sets the total number of floors, relative to the bottom floor.
+    totalFloors: 4,//Sets the total number of floors, relative to the bottom floor.
     //The init function initializes the application.
     init: function(){
         //Values are computed as necessary
